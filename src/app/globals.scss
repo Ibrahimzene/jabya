@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+$mainColor: rgba(4, 6, 116, 0.87);
+
+main {
+	h1 {
+		color: $mainColor;
+	}
+}
